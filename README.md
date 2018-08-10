@@ -21,10 +21,8 @@
 
 ## Images for the App
 
-![simulator screen shot - iphone 8 plus - 2018-08-10 at 14 50 37](https://user-images.githubusercontent.com/35192412/43958814-061ecd84-9cad-11e8-8745-012c6fe1caa9.png)
+![simulator screen shot - iphone 8 plus - 2018-08-10 at 14 50 37](https://user-images.githubusercontent.com/35192412/43958814-061ecd84-9cad-11e8-8745-012c6fe1caa9.png)  ![simulator screen shot - iphone 8 plus - 2018-08-10 at 14 48 03](https://user-images.githubusercontent.com/35192412/43958815-070e5df4-9cad-11e8-9f77-65e494a60532.png)
 
-![simulator screen shot - iphone 8 plus - 2018-08-10 at 14 48 03](https://user-images.githubusercontent.com/35192412/43958815-070e5df4-9cad-11e8-9f77-65e494a60532.png)
+![simulator screen shot - iphone 8 plus - 2018-08-10 at 14 48 07](https://user-images.githubusercontent.com/35192412/43958820-080f7e7c-9cad-11e8-9566-7f0c9ca0a64c.png)  ![simulator screen shot - iphone 8 plus - 2018-08-10 at 14 52 53](https://user-images.githubusercontent.com/35192412/43958869-2d0b744c-9cad-11e8-842c-c9140d6939ab.png)
 
-![simulator screen shot - iphone 8 plus - 2018-08-10 at 14 48 07](https://user-images.githubusercontent.com/35192412/43958820-080f7e7c-9cad-11e8-9566-7f0c9ca0a64c.png)
 
-![simulator screen shot - iphone 8 plus - 2018-08-10 at 14 52 53](https://user-images.githubusercontent.com/35192412/43958869-2d0b744c-9cad-11e8-842c-c9140d6939ab.png)
